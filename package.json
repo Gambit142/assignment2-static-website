@@ -1,0 +1,23 @@
+{
+  "name": "assignment2-static-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gambit142/assignment2-static-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gambit142/assignment2-static-website/issues"
+  },
+  "homepage": "https://github.com/Gambit142/assignment2-static-website#readme",
+  "dependencies": {
+    "@aws-amplify/cli": "^14.0.0"
+  }
+}
